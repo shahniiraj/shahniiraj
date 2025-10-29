@@ -62,16 +62,6 @@ My personal portfolio showcasing projects, skills, and case studies in a clean, 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahniiraj&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahniiraj&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
 ---
 
 ### 🗓️ Recent Activity
