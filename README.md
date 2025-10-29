@@ -68,8 +68,8 @@ My personal portfolio showcasing projects, skills, and case studies in a clean, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj058&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj058&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahniiraj&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahniiraj&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
