@@ -17,4 +17,4 @@
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/shahnniraj) | [Email](mailto:shahnniraj.2025@gmail.com)
+[Portfolio](shahniraj.com) | [LinkedIn](https://linkedin.com/in/shahnniraj) | [Email](mailto:shahnniraj.2025@gmail.com)
