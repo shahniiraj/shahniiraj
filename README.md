@@ -7,9 +7,11 @@
   <a href="https://linkedin.com/in/shahnniraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+ 
   <a href="mailto:shahnniraj.2025@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <img src="https://komarev.com/ghpvc/?username=Niraj058&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -83,6 +85,7 @@ My personal portfolio showcasing projects, skills, and case studies in a clean, 
   <a href="https://linkedin.com/in/shahnniraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  
   <a href="mailto:shahnniraj.2025@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"/>
   </a>
