@@ -62,6 +62,7 @@ My personal portfolio showcasing projects, skills, and case studies in a clean, 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
+
 ---
 
 ### 🗓️ Recent Activity
@@ -89,4 +90,4 @@ My personal portfolio showcasing projects, skills, and case studies in a clean, 
 
 ---
 
-⭐️ From [Niraj058](https://github.com/Niraj058)
+⭐️ From [Shah Niraj](https://github.com/shahniiraj)
