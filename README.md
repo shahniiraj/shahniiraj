@@ -1,7 +1,7 @@
   <!-- PROFILE README - Niraj Shah -->
 
   <h1 align="center">👋 Hi, I'm Niraj Shah</h1>
-  <h3 align="center">Java Backend Engineer | Spring Boot · Kafka · Microservices | Building resilient, high-throughput backend systems</h3>
+  <h3 align="center"> Backend Developer | Spring Boot · Kafka · Microservices | Building resilient, high-throughput backend systems</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/shahnniraj" target="_blank">
@@ -15,7 +15,7 @@
   ---
 
   ### 👨‍ About Me
-  I'm a Toronto-based **Java Backend Engineer** with ~4.5 years of experience building enterprise backend systems in fintech and e-commerce.
+  I'm a Toronto-based **Java Backend Engineer** with experience building enterprise backend systems in fintech and e-commerce.
   I specialize in **event-driven microservices**, **distributed systems**, and **high-availability APIs** — with a track record of measurable
   performance improvements across production environments.
 
@@ -24,28 +24,6 @@
   - 🌱 **Currently Building:** JobConnect – a full-stack job tracking app (React + Java Spring Boot + PostgreSQL)
   - 🤝 **Open to:** Backend or Full-Stack Java Engineer roles across Canada (remote or hybrid)
   - 📍 **Location:** Toronto, Canada
-
-  ---
-
-  ### 🚀 Featured Projects
-
-  #### 🧩 [JobConnect](#)
-  **Stack:** React • Java Spring Boot • PostgreSQL • REST API • JWT Auth
-  A full-stack job tracking app that helps users log and manage their applications efficiently.
-  - Deployed on **Vercel** (frontend) and **Render** (backend)
-  - Built with secure authentication, pagination, and responsive design
-
-  #### 🧠 [QuickQuiz](#)
-  **Stack:** Node.js • Express • WebSockets • PostgreSQL
-  A real-time online quiz platform supporting multiplayer rooms and live score updates.
-  - Supports concurrent multiplayer rooms with live score synchronization
-  - Designed with scalability and low-latency real-time communication in mind
-
-  #### 🎨 [Portfolio Website](#)
-  **Stack:** JavaScript • Next.js • TailwindCSS • Vercel
-  My personal portfolio showcasing projects, skills, and case studies in a clean, modern layout.
-  - Designed for accessibility and performance
-  - Lighthouse performance score: 98/100
 
   ---
 
