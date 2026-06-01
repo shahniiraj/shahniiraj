@@ -1,20 +1,17 @@
-<!-- PROFILE README - Niraj Shah -->
+  <!-- PROFILE README - Niraj Shah -->
 
-<h1 align="center">👋 Hi, I'm Niraj Shah</h1>
-<h3 align="center">Full Stack Developer | React.js + Java | Building scalable, user-focused applications</h3>
+  <h1 align="center">👋 Hi, I'm Niraj Shah</h1>
+  <h3 align="center">Java Backend Engineer | Spring Boot · Kafka · Microservices | Building resilient, high-throughput backend systems</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shahnniraj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- 
-  <a href="mailto:shahnniraj.2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=Niraj058&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
-
+  <p align="center">
+    <a href="https://linkedin.com/in/shahnniraj" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:shahnniraj.2025@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Niraj058&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  </p>
   ---
 
   ### 👨‍ About Me
